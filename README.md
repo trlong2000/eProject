@@ -11,10 +11,10 @@ Project title: HAIRCARE
 
 
     Group members        Name                       Student ID
-				             Vũ Trọng Phong                Student1285594
-									   Đõ Trần Long                  Student1287966
-										 Bùi Đại Thắng                 Student1281546
-										 Lê Thanh Ngọc Bích            Student1268354
+	        	Vũ Trọng Phong                Student1285594
+                	Đõ Trần Long                  Student1287966
+			Bùi Đại Thắng                 Student1281546
+		     	Lê Thanh Ngọc Bích            Student1268354
                      
 ============================
 
