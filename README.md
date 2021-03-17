@@ -1,10 +1,10 @@
-eProject T1.2011.M0-eProject-Group_3 Batch no.: T1.2011.M0
+eProject T1.2011.M0-eProject-Group_2 Batch no.: T1.2011.M0
 
 CENTER NAME: ACE-HCMC-2-FPT
 
-Project title: HAIRCARE
+Project title: CALLIGRAPHY
 
-========> Group 3 <=========
+========> Group 2 <=========
 
 3 collaborators:
 
