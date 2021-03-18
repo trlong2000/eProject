@@ -18,7 +18,7 @@ Project title: CALLIGRAPHY
                      
 ============================
 
-eProject documentation at https://github.com/thienquang1804/eProject1/tree/main/Review
+eProject documentation at https://github.com/trlong2000/eProject
 
 ============================
 
